@@ -11,7 +11,7 @@ b) Evite usar funções prontas, como, por exemplo, reverse;
 /*
 Como eu fiz:
 
-O código acima tem o objetivo de inverter uma string originalString e armazenar
+O código tem o objetivo de inverter uma string originalString e armazenar
 o resultado na variável invertedString.
 
 O código começa inicializando a variável invertedString como uma string vazia.
